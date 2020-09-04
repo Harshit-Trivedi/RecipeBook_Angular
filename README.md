@@ -13,16 +13,16 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Project Screenshots
 
 ### Home Page
-![] (ProjectScreenshots/HomePage.png)
+![](ProjectScreenshots/HomePage.png)
 
 ### Recipe Details
-![] (ProjectScreenshots/RecipeDetails.png.png)
+![](ProjectScreenshots/RecipeDetails.png.png)
 
 ### New Recipe
-![] (ProjectScreenshots/NewRecipe.png)
+![](ProjectScreenshots/NewRecipe.png)
 
 ### Edit Recipe
-![] (ProjectScreenshots/EditRecipe.png.png)
+![](ProjectScreenshots/EditRecipe.png.png)
 
 ### Shopping List
-![] (ProjectScreenshots/ShoppingList.png.png)
+![](ProjectScreenshots/ShoppingList.png.png)
